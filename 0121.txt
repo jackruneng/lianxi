@@ -14,3 +14,4 @@ branch1111
 pushuuuuu
 pushwithoutuuu
 Creating a new branch is quick andd simple
+test stash function
